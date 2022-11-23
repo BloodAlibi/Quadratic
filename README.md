@@ -7,7 +7,7 @@ Please use this tool only as a verification for your results.
 
 ## Code inside
 The Python program inside uses two librairies to work : math and tkinter (to generate the UI).
-It has been compiled and turned into an exe. You can install it with the provided Installer, or use the [raw version] (https://github.com/BloodAlibi/Quadratic/tree/main/Source).
+It has been compiled and turned into an exe. You can install it with the provided Installer, or use the [raw version](https://github.com/BloodAlibi/Quadratic/tree/main/Source).
 
 ## How to use it
 The program will take **three values : a, b and c.** You enter them in the corresponding boxes.
