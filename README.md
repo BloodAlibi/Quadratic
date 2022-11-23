@@ -6,7 +6,7 @@ It does not provide steps for now. It only returns the value of delta (Δ), and 
 Please use this tool only as a verification for your results.
 
 ## Code inside
-The Python program inside uses two librairies to work : math and tkinter (to generate the UI).
+The Python program inside uses two librairies to work : [math](https://docs.python.org/3/library/math.html) and [tkinter](https://docs.python.org/3/library/tkinter.html).
 It has been compiled and turned into an exe. You can install it with the provided Installer, or use the [raw version](https://github.com/BloodAlibi/Quadratic/tree/main/Source).
 
 ## How to use it
