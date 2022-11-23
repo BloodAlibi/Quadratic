@@ -7,7 +7,7 @@ Please use this tool only as a verification for your results.
 
 ## Code inside
 The Python program inside uses two librairies to work : math and tkinter (to generate the UI).
-It has been compiled and turned into an exe. To use it more easily, you can use the Installer file.
+It has been compiled and turned into an exe.
 
 ## How to use it
 The program will take **three values : a, b and c.** You enter them in the corresponding boxes.
@@ -26,5 +26,4 @@ You can after press "Solve". Then, you'll see three answers :
 ![image](https://user-images.githubusercontent.com/66722031/203457583-3bc615a3-b948-4815-b081-2f78ec0ec610.png)
 
 ## How to download
-You can download the exe Installer to install it. If you wish to avoid Installers, you can still use the original exe, with all its required files.
-MacOS and Linux versions will soon be available.
+You can download the exe to use it. MacOS and Linux versions will soon be available.
