@@ -26,4 +26,4 @@ You can after press "Solve". Then, you'll see three answers :
 ![image](https://user-images.githubusercontent.com/66722031/203457583-3bc615a3-b948-4815-b081-2f78ec0ec610.png)
 
 ## How to download
-You can download the exe to use it. MacOS and Linux versions will soon be available.
+You can download the exe [here](https://github.com/BloodAlibi/Quadratic/blob/main/Quadratic.exe) to use it. MacOS and Linux versions will soon be available.
