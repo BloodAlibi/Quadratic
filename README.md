@@ -26,4 +26,5 @@ You can after press "Solve". Then, you'll see three answers :
 ![image](https://user-images.githubusercontent.com/66722031/203457583-3bc615a3-b948-4815-b081-2f78ec0ec610.png)
 
 ## How to download
-You can download the exe Installer to install it. If you wish to avoid exe, you can still use the Python file provided. You may however need to install on your computer [Tkinter](https://docs.python.org/3/library/tkinter.html), used in the program. This method is required for MacOS and Linux users.
+You can download the exe Installer to install it. If you wish to avoid Installers, you can still use the original exe, with all its required files.
+MacOS and Linux versions will soon be available.
