@@ -7,7 +7,7 @@ Please use this tool only as a verification for your results.
 
 ## Code inside
 The Python program inside uses two librairies to work : math and tkinter (to generate the UI).
-It has been compiled and turned into an exe. You can install it with the provided Installer, or use the raw version.
+It has been compiled and turned into an exe. You can install it with the provided Installer, or use the [raw version (https://github.com/BloodAlibi/Quadratic/tree/main/Source).
 
 ## How to use it
 The program will take **three values : a, b and c.** You enter them in the corresponding boxes.
@@ -28,4 +28,4 @@ You can after press "Solve". Then, you'll see three answers :
 ## How to download
 You can download the Installer (exe) [here](https://github.com/BloodAlibi/Quadratic/tree/main/Quadratic/Installer_exe) to install it. If you wish to avoid Installers, you can still download the raw version (exe) with all its required files [here](https://github.com/BloodAlibi/Quadratic/tree/main/Quadratic/Original_exe).
 You may also download the Python file and run it.
-MacOS and Linux require the raw Python file.
+MacOS and Linux require the raw [Python file](https://github.com/BloodAlibi/Quadratic/tree/main/Source).
