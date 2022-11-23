@@ -26,5 +26,6 @@ You can after press "Solve". Then, you'll see three answers :
 ![image](https://user-images.githubusercontent.com/66722031/203457583-3bc615a3-b948-4815-b081-2f78ec0ec610.png)
 
 ## How to download
-You can download the Installer (exe) [here](https://github.com/BloodAlibi/Quadratic/tree/main/Quadratic/Installer_exe) to install it. If you wish to avoid Installers, you can still download the raw version with all its required files [here](https://github.com/BloodAlibi/Quadratic/tree/main/Quadratic/Original_exe).
-MacOS and Linux versions will soon be available.
+You can download the Installer (exe) [here](https://github.com/BloodAlibi/Quadratic/tree/main/Quadratic/Installer_exe) to install it. If you wish to avoid Installers, you can still download the raw version (exe) with all its required files [here](https://github.com/BloodAlibi/Quadratic/tree/main/Quadratic/Original_exe).
+You may also download the Python file and run it.
+MacOS and Linux require the raw Python file.
