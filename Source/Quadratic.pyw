@@ -53,15 +53,15 @@ def Solver():
     x2ValueEntry.delete(0, "end")
     if d > 0 and x1 != None and x2 != None:
         if type(x1) != "int":
-            x1 = Fraction(x1)
+            x1 = Fraction(x1).limit_denominator()
         if type(x2) != "int":
-            x2 = Fraction(x2)
+            x2 = Fraction(x2).limit_denominator()
         x1ValueEntry.insert(0, str(x1))
         x2ValueEntry.insert(0, str(x2))
         print("d is > to 0, 2 solutions.")
     elif d == 0 and x1 != None and x2 == None:
         if type(x1) != "int":
-            x1 = Fraction(x1)
+            x1 = Fraction(x1).limit_denominator()
         x1ValueEntry.insert(0, str(x1))
         print("d is = to 0, 1 solution.")
     elif d < 0 and x1 == None and x2 == None:
